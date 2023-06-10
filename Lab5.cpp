@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <vector>
 using namespace std;
-
+namespace Lab5 {
 // Вариант 12
 void Task1()
 {
@@ -231,4 +231,5 @@ int main(int argc, char const *argv[])
     Task3();
     /* code */
     return 0;
+}
 }

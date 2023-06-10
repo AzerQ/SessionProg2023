@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+namespace Lab3 {
 // Вариант 8
 void Task1()
 {
@@ -75,4 +75,5 @@ int main(int argc, char const *argv[])
     Task3();
     /* code */
     return 0;
+}
 }
