@@ -1,0 +1,3 @@
+C:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/cmake-build-debug/CMakeFiles/CodeSolution.dir
+C:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

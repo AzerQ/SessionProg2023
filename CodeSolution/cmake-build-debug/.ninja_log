@@ -1,0 +1,17 @@
+# ninja log v5
+4	417	7100767417961277	build.ninja	f46f224d4b453fd6
+84	1053	7100767429330864	CMakeFiles/CodeSolution.dir/src/Lab2.cpp.obj	97f3f91bda00340e
+101	1104	7100767429920654	CMakeFiles/CodeSolution.dir/src/Lab3.cpp.obj	437f443362b0e195
+1	1288	7100767431689959	CMakeFiles/CodeSolution.dir/src/Lab1.cpp.obj	10d61d8fc4f73535
+11	1305	7100767431876001	CMakeFiles/CodeSolution.dir/src/Lab4.cpp.obj	c4bfe0c11d7c7802
+28	1643	7100767435316225	CMakeFiles/CodeSolution.dir/src/Lab5.cpp.obj	28b7c5f6c897484a
+5	1314	7100767569766916	CMakeFiles/CodeSolution.dir/src/Main.cpp.obj	626058c60ebc747a
+1316	2019	7100767576644692	CodeSolution.exe	9daa50fe8c40d110
+5	1313	7100769872587845	CMakeFiles/CodeSolution.dir/src/Main.cpp.obj	626058c60ebc747a
+1315	1992	7100769879220756	CodeSolution.exe	9daa50fe8c40d110
+5	1291	7100770165511867	CMakeFiles/CodeSolution.dir/src/Main.cpp.obj	626058c60ebc747a
+1294	1774	7100770170197072	CodeSolution.exe	9daa50fe8c40d110
+6	965	7100776853544221	CMakeFiles/CodeSolution.dir/src/Lab1.cpp.obj	10d61d8fc4f73535
+967	1673	7100776860478882	CodeSolution.exe	9daa50fe8c40d110
+5	788	7100810979112996	CMakeFiles/CodeSolution.dir/src/Lab3.cpp.obj	437f443362b0e195
+791	1273	7100810983816206	CodeSolution.exe	9daa50fe8c40d110
