@@ -16,4 +16,4 @@ add_executable(CodeSolution
         src/Lab3.cpp
         src/Lab4.cpp
         src/Lab5.cpp
-        src/Main.cpp)
+        src/Main.cpp src/include/Lab5_2.h src/Lab5_2.cpp src/include/Lab6.h src/Lab6.cpp)

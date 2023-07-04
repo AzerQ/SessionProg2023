@@ -1,0 +1,144 @@
+<svg height="1104.4579367637634" version="1.1" width="690.0654430389404" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    style="overflow: hidden; position: relative; left: -0.031311px; top: -0.409729px;"
+    viewBox="0 0 690.0654430389404 1104.4579367637634" preserveAspectRatio="xMidYMid meet">
+    <desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.3.0</desc>
+    <defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+        <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block"
+            style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+        <marker id="raphael-marker-endblock33-objj9ajw" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj3cdx3" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj44le3" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objb3wg7" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objcg0mh" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objnd6ye" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objh5oov" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+    </defs>
+    <rect x="0" y="0" width="68.78472518920898" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="st" transform="matrix(1,0,0,1,179.1988,92.0178)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="stt" class="flowchartt" transform="matrix(1,0,0,1,179.1988,92.0178)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Начало</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L163.92361450195312,35.555556297302246L183.92361450195312,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="input" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,121.6293,269.5912)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="inputt" class="flowchartt" transform="matrix(1,0,0,1,121.6293,269.5912)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Ввод имени файла</tspan>
+    </text>
+    <rect x="0" y="0" width="114.16667175292969" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="open_file" transform="matrix(1,0,0,1,156.5078,447.1645)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="open_filet" class="flowchartt" transform="matrix(1,0,0,1,156.5078,447.1645)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Открыть файл</tspan>
+    </text>
+    <rect x="0" y="0" width="119.44071960449219" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="read_line" transform="matrix(1,0,0,1,153.8708,624.7379)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="read_linet" class="flowchartt" transform="matrix(1,0,0,1,153.8708,624.7379)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Считать строку</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M103.79557800292969,51.897789001464844L0,103.79557800292969L207.59115600585938,207.59115600585938L415.18231201171875,103.79557800292969L207.59115600585938,0L0,103.79557800292969"
+        stroke-width="3" id="check_exclamation" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,6,716.2934)"></path><text x="108.79557800292969" y="103.79557800292969"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="check_exclamationt" class="flowchartt" transform="matrix(1,0,0,1,6,716.2934)" stroke-width="1">
+        <tspan dy="4.444443225860596" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">В строке есть
+            восклицательный знак?</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L339.4184265136719,35.555556297302246L359.4184265136719,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="output_yes" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,33.8819,1065.9024)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="output_yest" class="flowchartt" transform="matrix(1,0,0,1,33.8819,1065.9024)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Есть восклицательный
+            знак\nСтрока: {строка}</tspan>
+    </text>
+    <rect x="0" y="0" width="60.347835540771484" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="end" transform="matrix(1,0,0,1,626.7176,1065.9024)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="endt" class="flowchartt" transform="matrix(1,0,0,1,626.7176,1065.9024)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Конец</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M213.59115600585938,127.57335615158081C213.59115600585938,127.57335615158081,213.59115600585938,240.90409061019662,213.59115600585938,265.0864787734852"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objj9ajw)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M213.59115600585938,305.1467123031616C213.59115600585938,305.1467123031616,213.59115600585938,418.4774467617774,213.59115600585938,442.65983492506604"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj3cdx3)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M213.59115600585938,482.72006845474243C213.59115600585938,482.72006845474243,213.59115600585938,596.0508029133582,213.59115600585938,620.2331910766469"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj44le3)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M213.59115600585938,660.2934246063232C213.59115600585938,660.2934246063232,213.59115600585938,698.4941954612732,213.59115600585938,711.7935849239584"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objb3wg7)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M213.59115600585938,923.8845806121826C213.59115600585938,923.8845806121826,213.59115600585938,1037.2153150707984,213.59115600585938,1061.397703234087"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objcg0mh)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="218.59115600585938" y="933.8845806121826"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.444448947906494" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">yes</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M421.18231201171875,820.0890026092529C421.18231201171875,820.0890026092529,446.18231201171875,810.0890026092529,446.18231201171875,810.0890026092529C446.18231201171875,810.0890026092529,446.18231201171875,589.737868309021,446.18231201171875,589.737868309021C446.18231201171875,589.737868309021,213.59115600585938,589.737868309021,213.59115600585938,589.737868309021C213.59115600585938,589.737868309021,213.59115600585938,610.7809400558472,213.59115600585938,620.2338824421167"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objnd6ye)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="426.18231201171875" y="810.0890026092529"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.444403171539307" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">no</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M383.3003692626953,1083.6801586151123C383.3003692626953,1083.6801586151123,589.0204748882477,1083.6801586151123,622.2189587306525,1083.6801586151123"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objh5oov)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+</svg>

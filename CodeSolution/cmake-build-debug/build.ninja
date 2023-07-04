@@ -91,6 +91,20 @@ build CMakeFiles/CodeSolution.dir/src/Main.cpp.obj: CXX_COMPILER__CodeSolution_D
   OBJECT_DIR = CMakeFiles\CodeSolution.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeSolution.dir\src
 
+build CMakeFiles/CodeSolution.dir/src/Lab5_2.cpp.obj: CXX_COMPILER__CodeSolution_Debug C$:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/src/Lab5_2.cpp || cmake_object_order_depends_target_CodeSolution
+  DEP_FILE = CMakeFiles\CodeSolution.dir\src\Lab5_2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/src/include
+  OBJECT_DIR = CMakeFiles\CodeSolution.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeSolution.dir\src
+
+build CMakeFiles/CodeSolution.dir/src/Lab6.cpp.obj: CXX_COMPILER__CodeSolution_Debug C$:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/src/Lab6.cpp || cmake_object_order_depends_target_CodeSolution
+  DEP_FILE = CMakeFiles\CodeSolution.dir\src\Lab6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/AzerQ/Documents/SessionProg2023/CodeSolution/src/include
+  OBJECT_DIR = CMakeFiles\CodeSolution.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeSolution.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CodeSolution
@@ -99,7 +113,7 @@ build CMakeFiles/CodeSolution.dir/src/Main.cpp.obj: CXX_COMPILER__CodeSolution_D
 #############################################
 # Link the executable CodeSolution.exe
 
-build CodeSolution.exe: CXX_EXECUTABLE_LINKER__CodeSolution_Debug CMakeFiles/CodeSolution.dir/src/Lab1.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab2.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab3.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab4.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab5.cpp.obj CMakeFiles/CodeSolution.dir/src/Main.cpp.obj
+build CodeSolution.exe: CXX_EXECUTABLE_LINKER__CodeSolution_Debug CMakeFiles/CodeSolution.dir/src/Lab1.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab2.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab3.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab4.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab5.cpp.obj CMakeFiles/CodeSolution.dir/src/Main.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab5_2.cpp.obj CMakeFiles/CodeSolution.dir/src/Lab6.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CodeSolution.dir

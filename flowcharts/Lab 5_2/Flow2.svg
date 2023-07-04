@@ -1,0 +1,92 @@
+<svg height="410.77778148651123" version="1.1" width="285.1632080078125" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    style="overflow: hidden; position: relative; left: -0.25354px; top: -0.687508px;"
+    viewBox="0 0 285.1632080078125 410.77778148651123" preserveAspectRatio="xMidYMid meet">
+    <desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.3.0</desc>
+    <defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+        <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block"
+            style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+        <marker id="raphael-marker-endblock33-objt3ys1" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objhkt1b" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj6ptzt" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objjx97t" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+    </defs>
+    <rect x="0" y="0" width="68.78472518920898" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="st" transform="matrix(1,0,0,1,109.6892,6)"></rect><text x="10" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="stt" class="flowchartt" transform="matrix(1,0,0,1,109.6892,6)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Начало</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L148.35902404785156,35.555556297302246L168.35902404785156,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="input_c" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,59.9021,97.5556)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="input_ct" class="flowchartt" transform="matrix(1,0,0,1,59.9021,97.5556)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Ввод матрицы C</tspan>
+    </text>
+    <rect x="0" y="0" width="276.1632080078125" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="find_alternating" transform="matrix(1,0,0,1,6,189.1111)"></rect>
+    <rect x="10" y="0" width="256.1632080078125" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" id="find_alternatingi"
+        transform="matrix(1,0,0,1,6,189.1111)"></rect><text x="20" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="find_alternatingt" class="flowchartt" transform="matrix(1,0,0,1,6,189.1111)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Найти знакочередующиеся
+            столбцы</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L157.7652359008789,35.555556297302246L177.7652359008789,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="output_g" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,55.199,280.6667)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="output_gt" class="flowchartt" transform="matrix(1,0,0,1,55.199,280.6667)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Вывести вектор G</tspan>
+    </text>
+    <rect x="0" y="0" width="60.347835540771484" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="end" transform="matrix(1,0,0,1,113.9077,372.2222)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="endt" class="flowchartt" transform="matrix(1,0,0,1,113.9077,372.2222)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Конец</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M144.08160400390625,41.555556297302246C144.08160400390625,41.555556297302246,144.08160400390625,79.7563271522522,144.08160400390625,93.05571661493741"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objt3ys1)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M144.08160400390625,133.1111125946045C144.08160400390625,133.1111125946045,144.08160400390625,171.31188344955444,144.08160400390625,184.61127291223966"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objhkt1b)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M144.08160400390625,224.66666889190674C144.08160400390625,224.66666889190674,144.08160400390625,262.8674397468567,144.08160400390625,276.1668292095419"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj6ptzt)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M144.08160400390625,316.222225189209C144.08160400390625,316.222225189209,144.08160400390625,354.42299604415894,144.08160400390625,367.72238550684415"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objjx97t)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+</svg>

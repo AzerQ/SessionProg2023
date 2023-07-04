@@ -168,56 +168,59 @@ namespace Lab5
     void findShortestDecreasingEvenSequence(std::vector<int> arr)
     {
         int start_idx = -1, end_idx = -1, current_seq_len = 0, min_seq_len = arr.size() + 1;
+        int min_start_idx = -1, min_end_idx = -1;  // Добавлено для сохранения индексов самой короткой последовательности
+
         for (int i = 0; i < arr.size(); i++)
         {
             if (arr[i] % 2 == 0)
-            { // если встретилось четное число
+            {
                 if (current_seq_len == 0)
-                { // начинаем новую последовательность
+                {
                     start_idx = i;
                     current_seq_len = 1;
                 }
                 else if (arr[i] < arr[i - 1])
-                { // продолжаем убывающую последовательность
+                {
                     current_seq_len++;
                 }
                 else
-                { // обнаружили неубывающее число, заканчиваем последовательность
-                    current_seq_len = 0;
-                }
-                if (current_seq_len > 0 && i == arr.size() - 1)
-                { // последовательность заканчивается в конце массива
-                    end_idx = i;
-                    if (current_seq_len < min_seq_len)
+                {
+                    if (current_seq_len < min_seq_len && current_seq_len > 1)
                     {
                         min_seq_len = current_seq_len;
+                        min_start_idx = start_idx;
+                        min_end_idx = i - 1;
                     }
-                    break;
+                    current_seq_len = 1;
+                    start_idx = i;
+                }
+                if (i == arr.size() - 1 && current_seq_len < min_seq_len && current_seq_len > 1)
+                {
+                    min_seq_len = current_seq_len;
+                    min_start_idx = start_idx;
+                    min_end_idx = i;
                 }
             }
             else
-            { // обнаружили нечетное число, заканчиваем последовательность
-                if (current_seq_len > 0)
+            {
+                if (current_seq_len < min_seq_len && current_seq_len > 1)
                 {
-                    end_idx = i - 1;
-                    if (current_seq_len < min_seq_len)
-                    {
-                        min_seq_len = current_seq_len;
-                    }
-                    current_seq_len = 0;
+                    min_seq_len = current_seq_len;
+                    min_start_idx = start_idx;
+                    min_end_idx = i - 1;
                 }
+                current_seq_len = 0;
             }
         }
 
-        // выводим результаты
         if (min_seq_len == arr.size() + 1)
-        { // не нашли ни одной последовательности
-            std::cout << "Нет такой последователльности" << std::endl;
+        {
+            std::cout << "Нет такой последовательности" << std::endl;
         }
         else
         {
-            std::cout << "Минимальная последователность убывающих чётных чисел: " << std::endl;
-            for (int i = start_idx; i <= end_idx; i++)
+            std::cout << "Минимальная последовательность убывающих чётных чисел: " << std::endl;
+            for (int i = min_start_idx; i <= min_end_idx; i++)
             {
                 std::cout << arr[i] << " ";
             }
@@ -233,6 +236,7 @@ namespace Lab5
         cout << endl
              << "Введите размер массива: ";
         cin >> size;
+        cout << "Введите массив: ";
         for (int i = 0; i < size; i++)
         {
             int elem;

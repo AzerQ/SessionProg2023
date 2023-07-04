@@ -1,0 +1,4 @@
+This is a test file.
+It contains multiple sentences.
+Each sentence ends with a period.
+There are 7 points in total.

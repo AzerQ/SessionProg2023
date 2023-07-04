@@ -5,6 +5,8 @@
 #include "include/Lab3.h"
 #include "include/Lab4.h"
 #include "include/Lab5.h"
+#include "include/Lab5_2.h"
+#include "include/Lab6.h"
 #include <cstdlib>
 
 void SetConsoleToUnicode()
@@ -21,7 +23,7 @@ int main() {
     string input;
 
     while (true) {
-        cout << "Введите номер лабораторной работы (1-5) или 'q' для выхода: ";
+        cout << "Введите номер лабораторной работы (1-6, 5.2 = 52) или 'q' для выхода: ";
         cin >> input;
 
         if (input == "q") {
@@ -118,8 +120,34 @@ int main() {
                             cout << "Неверный номер задания для лабораторной работы 5." << endl;
                             break;
                     }
+                case 52:
+                    switch (taskNumber) {
+                        case 1:
+                            Lab5_2::Task1();
+                            break;
+                        case 2:
+                            Lab5_2::Task2();
+                            break;
+                        default:
+                            cout << "Неверный номер задания для лабораторной работы 5." << endl;
+                            break;
+                    }
                     break;
-
+                case 6:
+                    switch (taskNumber) {
+                        case 1:
+                            Lab6::Task1();
+                            break;
+                        case 2:
+                            Lab6::Task2();
+                            break;
+                        case 3:
+                            Lab6::Task3();
+                            break;
+                        default:
+                            cout << "Неверный номер задания для лабораторной работы 5." << endl;
+                            break;
+                    }
                 default:
                     cout << "Неверный номер лабораторной работы." << endl;
                     break;

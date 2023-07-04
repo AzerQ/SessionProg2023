@@ -1,0 +1,333 @@
+<svg height="2551.6259298324585" version="1.1" width="376.9036521911621" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    style="overflow: hidden; position: relative; left: -0.934082px; top: -0.409729px;"
+    viewBox="0 0 376.9036521911621 2551.6259298324585" preserveAspectRatio="xMidYMid meet">
+    <desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.3.0</desc>
+    <defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+        <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block"
+            style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+        <marker id="raphael-marker-endblock33-objcq9ja" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objz9svl" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objdkuq4" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objax5bu" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objorip2" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objroh3f" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objp2w5j" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj9sq7m" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objcvqre" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objpb1ei" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj3mq59" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-obj2eqjf" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objoia8l" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objof8g0" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objv87ex" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objwruli" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+        <marker id="raphael-marker-endblock33-objq8ucw" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+            refY="1.5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+                fill="black" stroke="none" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></use>
+        </marker>
+    </defs>
+    <rect x="0" y="0" width="68.78472518920898" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="st" transform="matrix(1,0,0,1,152.467,69.2444)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="stt" class="flowchartt" transform="matrix(1,0,0,1,152.467,69.2444)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Начало</tspan>
+    </text>
+    <rect x="0" y="0" width="171.38890075683594" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op1" transform="matrix(1,0,0,1,101.1649,224.0443)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op1t" class="flowchartt" transform="matrix(1,0,0,1,101.1649,224.0443)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Инициализируйте n = 0
+        </tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L200.8507080078125,35.555556297302246L220.8507080078125,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="io1" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,76.434,378.8442)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="io1t" class="flowchartt" transform="matrix(1,0,0,1,76.434,378.8442)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Ввод размера массива n
+        </tspan>
+    </text>
+    <rect x="0" y="0" width="178.45101928710938" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op2" transform="matrix(1,0,0,1,97.6339,533.6441)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op2t" class="flowchartt" transform="matrix(1,0,0,1,97.6339,533.6441)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Создание массива arr[n]
+        </tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L203.76736450195312,35.555556297302246L223.76736450195312,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="io2" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,74.9757,688.444)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="io2t" class="flowchartt" transform="matrix(1,0,0,1,74.9757,688.444)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Ввод элементов массива
+        </tspan>
+    </text>
+    <rect x="0" y="0" width="210.13734436035156" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="sub1" transform="matrix(1,0,0,1,81.7907,843.2439)"></rect>
+    <rect x="10" y="0" width="190.13734436035156" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" id="sub1i"
+        transform="matrix(1,0,0,1,81.7907,843.2439)"></rect><text x="20" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="sub1t" class="flowchartt" transform="matrix(1,0,0,1,81.7907,843.2439)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Вызов MaxNumbers(arr, n)
+        </tspan>
+    </text>
+    <rect x="0" y="0" width="282.4749755859375" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op3" transform="matrix(1,0,0,1,45.6219,998.0439)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op3t" class="flowchartt" transform="matrix(1,0,0,1,45.6219,998.0439)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Сортировка массива mass по
+            убыванию</tspan>
+    </text>
+    <rect x="0" y="0" width="347.01129150390625" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op4" transform="matrix(1,0,0,1,13.3537,1152.8438)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op4t" class="flowchartt" transform="matrix(1,0,0,1,13.3537,1152.8438)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Инициализация массива Z[6]
+            и счетчика oddCount</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M76.36067962646484,38.18033981323242L0,76.36067962646484L152.7213592529297,152.7213592529297L305.4427185058594,76.36067962646484L152.7213592529297,0L0,76.36067962646484"
+        stroke-width="3" id="cond1" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,34.138,1249.0608)"></path><text x="81.36067962646484" y="76.36067962646484"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="cond1t" class="flowchartt" transform="matrix(1,0,0,1,34.138,1249.0608)" stroke-width="1">
+        <tspan dy="4.444443225860596" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Элемент массива четный?
+        </tspan>
+    </text>
+    <rect x="0" y="0" width="224.48101806640625" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op5" transform="matrix(1,0,0,1,74.6189,1521.0265)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op5t" class="flowchartt" transform="matrix(1,0,0,1,74.6189,1521.0265)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Увеличение счетчика
+            oddCount</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L153.29400634765625,35.555556297302246L173.29400634765625,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="io3" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,100.2124,1675.8264)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="io3t" class="flowchartt" transform="matrix(1,0,0,1,100.2124,1675.8264)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Вывод массива Z</tspan>
+    </text>
+    <rect x="0" y="0" width="285.89129638671875" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op6" transform="matrix(1,0,0,1,43.9137,1830.6263)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op6t" class="flowchartt" transform="matrix(1,0,0,1,43.9137,1830.6263)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Инициализация массива
+            oddZ[oddCount]</tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M81.02213859558105,40.51106929779053L0,81.02213859558105L162.0442771911621,162.0442771911621L324.0885543823242,81.02213859558105L162.0442771911621,0L0,81.02213859558105"
+        stroke-width="3" id="cond2" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,24.8151,1922.1819)"></path><text x="86.02213859558105" y="81.02213859558105"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="cond2t" class="flowchartt" transform="matrix(1,0,0,1,24.8151,1922.1819)" stroke-width="1">
+        <tspan dy="4.444441318511963" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Элемент массива Z четный?
+        </tspan>
+    </text>
+    <rect x="0" y="0" width="192.65036010742188" height="35.555556297302246" rx="0" ry="0" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="op7" transform="matrix(1,0,0,1,90.5342,2203.4705)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="op7t" class="flowchartt" transform="matrix(1,0,0,1,90.5342,2203.4705)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Заполнение массива oddZ
+        </tspan>
+    </text>
+    <path fill="#ffffff" stroke="#000000"
+        d="M10,17.777778148651123L0,35.555556297302246L341.71875,35.555556297302246L361.71875,0L20,0L10,17.777778148651123"
+        stroke-width="3" id="io4" class="flowchart" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+        transform="matrix(1,0,0,1,6,2358.2705)"></path><text x="30" y="17.777778148651123" text-anchor="start"
+        font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="io4t" class="flowchartt" transform="matrix(1,0,0,1,6,2358.2705)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Вывод массива oddZ в
+            восьмеричной системе</tspan>
+    </text>
+    <rect x="0" y="0" width="60.347835540771484" height="35.555556297302246" rx="20" ry="20" fill="#ffffff"
+        stroke="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" stroke-width="3" class="flowchart"
+        id="e" transform="matrix(1,0,0,1,156.6855,2513.0704)"></rect><text x="10" y="17.777778148651123"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        id="et" class="flowchartt" transform="matrix(1,0,0,1,156.6855,2513.0704)" stroke-width="1">
+        <tspan dy="4.444444179534912" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Конец</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,104.79991674423218C186.859375,104.79991674423218,186.859375,197.83678386681788,186.859375,219.5514432831245"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objcq9ja)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,259.59983348846436C186.859375,259.59983348846436,186.859375,352.63670061105006,186.859375,374.3513600273567"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objz9svl)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,414.39975023269653C186.859375,414.39975023269653,186.859375,507.43661735528224,186.859375,529.1512767715889"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objdkuq4)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,569.1996669769287C186.859375,569.1996669769287,186.859375,662.2365340995144,186.859375,683.951193515821"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objax5bu)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,723.9995837211609C186.859375,723.9995837211609,186.859375,817.0364508437466,186.859375,838.7511102600531"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objorip2)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,878.7995004653931C186.859375,878.7995004653931,186.859375,971.8363675879788,186.859375,993.5510270042854"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objroh3f)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1033.5994172096252C186.859375,1033.5994172096252,186.859375,1126.6362843322108,186.859375,1148.3509437485175"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objp2w5j)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1188.3993339538574C186.859375,1188.3993339538574,186.859375,1230.4924426069829,186.859375,1244.5508831923041"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj9sq7m)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1401.7821521759033C186.859375,1401.7821521759033,186.859375,1494.819019298489,186.859375,1516.5336787147958"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objcvqre)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="191.859375" y="1411.7821521759033"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.444437503814697" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">yes</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M339.5807342529297,1325.4214725494385C339.5807342529297,1325.4214725494385,364.5807342529297,1325.4214725494385,364.5807342529297,1325.4214725494385C364.5807342529297,1325.4214725494385,364.5807342529297,1650.8264293670654,364.5807342529297,1650.8264293670654C364.5807342529297,1650.8264293670654,186.859375,1650.8264293670654,186.859375,1650.8264293670654C186.859375,1650.8264293670654,186.859375,1664.1304006576538,186.859375,1671.3280570004135"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objpb1ei)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="344.5807342529297" y="1315.4214725494385"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.4444756507873535" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">no</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1556.5820689201355C186.859375,1556.5820689201355,186.859375,1665.8264293670654,186.859375,1665.8264293670654C186.859375,1665.8264293670654,186.859375,1668.669485092163,186.859375,1671.323744148016"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj3mq59)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1711.3819856643677C186.859375,1711.3819856643677,186.859375,1804.4188527869533,186.859375,1826.13351220326"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj2eqjf)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,1866.1819024085999C186.859375,1866.1819024085999,186.859375,1904.3826732635498,186.859375,1917.682062726235"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objoia8l)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,2084.226179599762C186.859375,2084.226179599762,186.859375,2177.2630467223476,186.859375,2198.9777061386544"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objof8g0)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="191.859375" y="2094.226179599762"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.44449520111084" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">yes</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M348.9036521911621,2003.204041004181C348.9036521911621,2003.204041004181,373.9036521911621,2003.204041004181,373.9036521911621,2003.204041004181C373.9036521911621,2003.204041004181,373.9036521911621,2333.270456790924,373.9036521911621,2333.270456790924C373.9036521911621,2333.270456790924,186.859375,2333.270456790924,186.859375,2333.270456790924C186.859375,2333.270456790924,186.859375,2346.5744280815125,186.859375,2353.772084424272"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objv87ex)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="353.9036521911621" y="1993.204041004181"
+        text-anchor="start" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: start; font-family: Arial; font-size: 14px;"
+        stroke-width="1">
+        <tspan dy="4.444329261779785" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">no</tspan>
+    </text>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,2239.026096343994C186.859375,2239.026096343994,186.859375,2348.270456790924,186.859375,2348.270456790924C186.859375,2348.270456790924,186.859375,2351.1135125160217,186.859375,2353.7677715718746"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objwruli)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+    <path fill="none" stroke="#000000"
+        d="M186.859375,2393.8260130882263C186.859375,2393.8260130882263,186.859375,2486.862880210812,186.859375,2508.5775396271188"
+        stroke-width="3" marker-end="url(#raphael-marker-endblock33-objq8ucw)"
+        style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>
+</svg>

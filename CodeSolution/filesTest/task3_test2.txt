@@ -1,0 +1,6 @@
+This file has only even lines.
+No words in odd lines.
+Words are separated by spaces.
+Counting words in odd lines.
+BLABLABLBLA lj
+AZXAZAZZAZ Kj
